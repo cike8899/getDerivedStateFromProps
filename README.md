@@ -1,0 +1,2 @@
+# getDerivedStateFromProps
+Created with CodeSandbox
